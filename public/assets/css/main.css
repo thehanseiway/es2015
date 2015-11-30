@@ -1,0 +1,10 @@
+body {
+  background-color: #f0f3ff;
+  font-family: 'Arial';
+}
+.active {
+  color: #f00;
+}
+.header .menu {
+  font-size: 24px;
+}
